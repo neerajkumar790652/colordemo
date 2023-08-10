@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# About the Project
+## This project is based on the Props concept
+  props is known as properties which is used to passing the Data from parent to child
+## In this i have create 2 components one the simple component other is Object 
+  one component contain the format of ui and other contain the collection of color which is used with the different card
+  we render the on the UI WE Pass the color.js it contain the array of object with different color and colorname we import the color.js in App.js and we apply the map() with color to iterate the array and pass the props in ColorPallet that is color and colorname which is 
+  required to change the color name and color of the container 
