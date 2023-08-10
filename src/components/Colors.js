@@ -36,7 +36,7 @@ const Colors = [
         color_code:"#7E41A2"
     },
     {
-        color_name:"BROWN",
+        color_name:"REDBROWN",
         color_code:"#C14911"
     }
 ]
